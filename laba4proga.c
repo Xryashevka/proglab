@@ -8,4 +8,4 @@ int main()
   printf("%d\n", arg);
   printf("%d", (num >> 11) % 2);
   return 0;
-}
+
