@@ -7,7 +7,7 @@ int main(){
   int ans[2][2] = {0};
 
   system("chcp 1251");
-  printf("мой массив:\n");
+  printf("MY array:\n");
   for (int i = 0; i < 7; i++) {
     printf("%d", arr[i]);
     printf(" ");
