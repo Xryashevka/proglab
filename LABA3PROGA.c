@@ -12,7 +12,7 @@ int main()
     printf("%x\n",y<<3);
     printf("Задание 3\n\n");
     printf("%o\n",y);
-    printf("%o\n",y<<3);
+    printf("%o\n",y<<3)
     printf("%o\n",~y);
     printf("задание 4\n\n");
         scanf("%d",&p);
